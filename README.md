@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanishk</h1>
 <h3 align="center">A passionate Analyst from India</h3>
 
-- 🔭 I’m currently working on **Automation Finacial modelling**
+- 🔭 I’m currently working on **Automation of Finacial modelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
